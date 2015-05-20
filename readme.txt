@@ -1,4 +1,4 @@
-=== Rocket Form builder ===
+=== Rocket Form - Form builder ===
 Contributors: softdiscover
 Donate link: http://www.rocket-form.com/
 License: GPLv3
