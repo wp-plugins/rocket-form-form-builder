@@ -152,7 +152,7 @@ if (!class_exists('RocketForm_Express')) {
             $this->define('UIFORM_APP_NAME', "Rocket Forms Express - Form builder");
             $this->define('UIFORM_VERSION', $this->version);
             $this->define('UIFORM_FORMS_DIR', dirname(__FILE__));
-            $this->define('UIFORM_FORMS_URL', plugins_url() . '/rocket-forms-express');
+            $this->define('UIFORM_FORMS_URL', plugins_url() . '/rocket-form-form-builder');
             $this->define('UIFORM_FORMS_LIBS', UIFORM_FORMS_DIR . '/libraries');
             $this->define('UIFORM_DEBUG', 0);
             if (UIFORM_DEBUG == 1) {
