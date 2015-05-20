@@ -107,10 +107,10 @@ There are 2 ways to install. Please follow the steps below:
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * First release
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
 * First release
