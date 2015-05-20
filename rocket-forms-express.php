@@ -3,7 +3,7 @@
  * Plugin Name: Rocket Form Express
  * Plugin URI: http://www.rocket-form.com
  * Description: Rocket Form - Form builder makes you build forms in few steps.
- * Version: 1.2
+ * Version: 1.1
  * Author: SoftDiscover
  * Author URI: http://www.softdiscover.com
  */
