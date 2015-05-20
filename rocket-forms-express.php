@@ -3,7 +3,7 @@
  * Plugin Name: Rocket Form Express
  * Plugin URI: http://www.rocket-form.com
  * Description: Rocket Form - Form builder makes you build forms in few steps.
- * Version: 1.1
+ * Version: 1.2
  * Author: SoftDiscover
  * Author URI: http://www.softdiscover.com
  */
@@ -29,7 +29,7 @@ if (!class_exists('RocketForm_Express')) {
          * @var string
          * @since 1.0
          */
-        public $version = '1.0';
+        public $version = '1.2';
 
         /**
          * The minimal required version of WordPress for this plug-in to function correctly.
@@ -37,7 +37,7 @@ if (!class_exists('RocketForm_Express')) {
          * @var string
          * @since 1.0
          */
-        public $wp_version = '3.3';
+        public $wp_version = '3.6';
 
         /**
          * The minimal required version of WordPress for this plug-in to function correctly.
