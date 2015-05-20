@@ -6,7 +6,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: ajax forms, responsive, form generator, form creator, form, forms, simple forms, professional forms, quick forms, form builder, form designs, contact form, validation, form builder, contact form builder, form manager, form creator, form generator, contact us, contact forms plugin, contact form plugin, bootstrap forms, jquery forms, ajax, confirmation mail
 Requires at least: 3.6
 Tested up to: 4.2
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 Rocket Form is a real-time drag and drop form builder editor with live preview which makes you to build your forms on few seconds.
 
@@ -112,7 +112,13 @@ https://www.youtube.com/watch?v=sbK7qkoOZoc&w=532&rel=0
 = 1.2 =
 * First release
 
+= 1.2.1 =
+* Fixing concflictplugin name
+
 == Upgrade Notice ==
 
 = 1.2 =
 * First release
+
+= 1.2.1 =
+* Fixing plugin name
